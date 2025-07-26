@@ -1,0 +1,66 @@
+<!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seorhi Beej</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background-color: #0d6efd; color: white; padding: 20px; text-align: center; }
+    nav { background-color: #084298; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    section { padding: 20px; }
+    .product { border: 1px solid #ccc; margin-bottom: 20px; padding: 15px; border-radius: 5px; }
+    footer { background-color: #0d6efd; color: white; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Seorhi Beej</h1>
+    <p>جیتہ بکی جیتہ بکی جیتہ بکی</p>
+  </header>  <nav>
+    <a href="#home">होम</a>
+    <a href="#products">प्रोडक्ट्स</a>
+    <a href="#contact">संपर्क करें</a>
+  </nav>  <section id="home">
+    <h2>हमारा परिचय</h2>
+    <p>Seorhi Beej किसानों को उन्नत कृषि यंत्र, स्प्रेयर, मोटर, बैटरी आदि उपलब्ध कराता है – वह भी सस्ते दाम पर।</p>
+  </section>  <section id="products">
+    <h2>हमारे उत्पाद</h2><div class="product">
+  <h3>Farmer Tank 16L</h3>
+  <ul>
+    <li>12V 8AH Battery, 4.5 LPM Copper Motor</li>
+    <li>1.3AMP Charger, Red Trigger</li>
+    <li>Car Belt, Brass Lance, Heavy Controller</li>
+    <li>कीमत: ₹1410 – ₹1450</li>
+  </ul>
+</div>
+
+<div class="product">
+  <h3>Neptune AK-21 (2in1)</h3>
+  <ul>
+    <li>20L Tank, 12V 8AH Battery</li>
+    <li>1.1 Amp Charger, 4 Nozzles</li>
+    <li>Extendable Stainless Steel Lance</li>
+  </ul>
+</div>
+
+<div class="product">
+  <h3>Neptune CK-25</h3>
+  <ul>
+    <li>20L Tank, 12V 12AH Battery</li>
+    <li>1.7 Amp Charger, 4 Nozzles</li>
+    <li>Extendable Stainless Steel Lance</li>
+  </ul>
+</div>
+
+<div class="product">
+  <h3>NF-02 Manual Sprayer</h3>
+  <ul>
+    <li>16L Capacity, 0.2–0.45 MPa Pressure</li>
+    <li>3 रंग: नीला, पीला, काला</li>
+    <li>Size: 36x18x51.3 cm</li>
+  </ul>
+</div>
+
+<div class="product
+
